@@ -38,7 +38,7 @@ The final report covers:
 - **Velocity:** 12.75 Story Points/Sprint
 - **Sprint Duration:** 6 Days
 
-The project planning and sprint schedule are documented in the final report. :contentReference[oaicite:2]{index=2}
+The project planning and sprint schedule are documented in the final report.
 
 ## Results
 
