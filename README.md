@@ -66,6 +66,9 @@ Incident Closure
 Knowledge Article Creation
         ↓
 SLA and Final Validation
+```
+
+---
 
 ## Project Scope
 
@@ -196,6 +199,8 @@ This phase demonstrates the completed Incident Lifecycle Automation in ServiceNo
 
 - Project Demo Video
 
+---
+
 ## Project Planning
 
 The project is planned across four sprints.
@@ -288,6 +293,9 @@ Knowledge Creation
 SLA / Related Records
       ↓
 Final Validation
+```
+
+---
 
 ## Project Outcome
 
@@ -315,6 +323,8 @@ The complete workflow supports:
 **Incident Lifecycle Automation in ServiceNow** provides a structured approach to managing IT incidents from creation to resolution.
 
 By integrating Incident Management with Knowledge, Agent Assist, Change Management, child incidents, and SLA tracking, the project provides improved consistency, visibility, ownership, coordination, and documentation throughout the incident lifecycle.
+
+---
 
 ## Repository Structure
 
@@ -358,3 +368,24 @@ Incident-Lifecycle-Automation-in-ServiceNow/
 │   └── README.md
 │
 └── README.md
+```
+
+---
+
+## Project Information
+
+**Project Name:** Incident Lifecycle Automation in ServiceNow
+
+**Platform:** ServiceNow
+
+**Total User Stories:** 12
+
+**Total Story Points:** 51
+
+**Number of Sprints:** 4
+
+**Velocity:** 12.75 Story Points/Sprint
+
+**UAT Test Cases:** 12
+
+**Project Status:** Completed
