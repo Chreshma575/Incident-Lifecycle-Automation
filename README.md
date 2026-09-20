@@ -265,7 +265,7 @@ Knowledge Creation
 SLA / Related Records
       ↓
 Final Validation
-
+```
 ---
 
 ### Phase 6 – Project Documentation
