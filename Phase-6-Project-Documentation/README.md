@@ -42,9 +42,8 @@ The project planning and sprint schedule are documented in the final report.
 
 ## Results
 
-The final report includes ServiceNow output screenshots demonstrating service and service offering setup, incident handling, Agent Assist, child incidents, Knowledge records, and related incident information. :contentReference[oaicite:3]{index=3}
+The final report includes ServiceNow output screenshots demonstrating service and service offering setup, incident handling, Agent Assist, child incidents, Knowledge records, and related incident information.
 
 ## Phase Outcome
 
 The Project Documentation Phase consolidates the complete project work into a final academic report for **Incident Lifecycle Automation in ServiceNow**.
-
