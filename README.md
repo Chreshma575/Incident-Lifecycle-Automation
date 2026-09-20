@@ -146,6 +146,26 @@ This phase defines the project requirements, user journey, data flow, user stori
 - Solution Requirements
 - Technology Stack
 
+#### User Stories
+
+The project contains **12 user stories (USN-1 to USN-12)** covering the Incident Management lifecycle.
+
+| User Story | Description | Story Points |
+|---|---|---:|
+| USN-1 | Service and Service Offering Setup | 5 |
+| USN-2 | Incident Creation | 5 |
+| USN-3 | Incident Classification | 3 |
+| USN-4 | Knowledge and Agent Assist | 5 |
+| USN-5 | Assignment and Reassignment | 5 |
+| USN-6 | Level 2 Incident Tracking | 3 |
+| USN-7 | Emergency Change | 5 |
+| USN-8 | Child Incident Management | 5 |
+| USN-9 | Incident Resolution | 3 |
+| USN-10 | Knowledge Creation | 5 |
+| USN-11 | SLA and Related Record Validation | 5 |
+| USN-12 | Testing and Final Validation | 2 |
+| **Total** | | **51** |
+
 ---
 
 ### Phase 3 – Project Design
@@ -169,39 +189,7 @@ This phase focuses on sprint planning, user stories, story point estimation, pro
 - Planning Logic
 - Project Planning
 
----
-
-### Phase 5 – Project Development
-
-This phase validates the ServiceNow Incident Management lifecycle through User Acceptance Testing.
-
-**Document:**
-
-- User Acceptance Testing
-
----
-
-### Phase 6 – Project Documentation
-
-This phase consolidates the complete project work into the final academic project report.
-
-**Document:**
-
-- Final Report
-
----
-
-### Phase 7 – Project Demonstration
-
-This phase demonstrates the completed Incident Lifecycle Automation in ServiceNow project.
-
-**Document / File:**
-
-- Project Demo Video
-
----
-
-## Project Planning
+#### Sprint Planning
 
 The project is planned across four sprints.
 
@@ -212,7 +200,7 @@ The project is planned across four sprints.
 | Sprint-3 | 13 | 6 Days | 01 Sep 2026 | 06 Sep 2026 |
 | Sprint-4 | 12 | 6 Days | 07 Sep 2026 | 12 Sep 2026 |
 
-### Planning Summary
+#### Planning Summary
 
 - **Total Story Points:** 51
 - **Number of Sprints:** 4
@@ -222,33 +210,17 @@ The project is planned across four sprints.
 
 ---
 
-## User Stories
+### Phase 5 – Project Development
 
-The project contains **12 user stories (USN-1 to USN-12)** covering the Incident Management lifecycle.
+This phase validates the ServiceNow Incident Management lifecycle through User Acceptance Testing.
 
-| User Story | Description | Story Points |
-|---|---|---:|
-| USN-1 | Service and Service Offering Setup | 5 |
-| USN-2 | Incident Creation | 5 |
-| USN-3 | Incident Classification | 3 |
-| USN-4 | Knowledge and Agent Assist | 5 |
-| USN-5 | Assignment and Reassignment | 5 |
-| USN-6 | Level 2 Incident Tracking | 3 |
-| USN-7 | Emergency Change | 5 |
-| USN-8 | Child Incident Management | 5 |
-| USN-9 | Incident Resolution | 3 |
-| USN-10 | Knowledge Creation | 5 |
-| USN-11 | SLA and Related Record Validation | 5 |
-| USN-12 | Testing and Final Validation | 2 |
-| **Total** | | **51** |
+**Document:**
 
----
+- User Acceptance Testing
 
-## User Acceptance Testing
+#### UAT Scope
 
 The project includes User Acceptance Testing covering the complete Incident Management lifecycle.
-
-### UAT Scope
 
 - Service and Service Offering setup
 - Incident creation
@@ -263,7 +235,7 @@ The project includes User Acceptance Testing covering the complete Incident Mana
 - SLA and related-record validation
 - End-to-end lifecycle validation
 
-### UAT Test Cases
+#### UAT Test Cases
 
 The project contains **12 UAT test cases (TC-001 to TC-012)** covering the major project activities.
 
@@ -293,7 +265,26 @@ Knowledge Creation
 SLA / Related Records
       ↓
 Final Validation
-```
+
+---
+
+### Phase 6 – Project Documentation
+
+This phase consolidates the complete project work into the final academic project report.
+
+**Document:**
+
+- Final Report
+
+---
+
+### Phase 7 – Project Demonstration
+
+This phase demonstrates the completed Incident Lifecycle Automation in ServiceNow project.
+
+**Document / File:**
+
+- Project Demo Video
 
 ---
 
